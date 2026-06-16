@@ -1,3 +1,3 @@
 # m61_github_project
 
-[jhgyhg](electric_bill.py)
+[โปรแกรมคำนวณค่าไฟฟ้า](electric_bill.py)
